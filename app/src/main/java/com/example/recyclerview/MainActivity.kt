@@ -20,9 +20,9 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // Create Data Class
-        // Create List From data class
-        // Create adapter
+        // Create Data Class - ok
+        // Create List From data class - ok
+        // Create adapter -ok
         // Set adapter
         // Liner Layout Manager
         // Submeter a lista
